@@ -1,0 +1,16 @@
+C:\Users\Moon\source\repos\COMP123Midterm\COMP123Midterm\obj\Debug\net5.0\COMP123Midterm.csprojAssemblyReference.cache
+C:\Users\Moon\source\repos\COMP123Midterm\COMP123Midterm\obj\Debug\net5.0\COMP123Midterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moon\source\repos\COMP123Midterm\COMP123Midterm\obj\Debug\net5.0\COMP123Midterm.AssemblyInfoInputs.cache
+C:\Users\Moon\source\repos\COMP123Midterm\COMP123Midterm\obj\Debug\net5.0\COMP123Midterm.AssemblyInfo.cs
+C:\Users\Moon\source\repos\COMP123Midterm\COMP123Midterm\obj\Debug\net5.0\COMP123Midterm.csproj.CoreCompileInputs.cache
+C:\Users\Moon\source\repos\COMP123Midterm\COMP123Midterm\bin\Debug\net5.0\COMP123Midterm.exe
+C:\Users\Moon\source\repos\COMP123Midterm\COMP123Midterm\bin\Debug\net5.0\COMP123Midterm.deps.json
+C:\Users\Moon\source\repos\COMP123Midterm\COMP123Midterm\bin\Debug\net5.0\COMP123Midterm.runtimeconfig.json
+C:\Users\Moon\source\repos\COMP123Midterm\COMP123Midterm\bin\Debug\net5.0\COMP123Midterm.runtimeconfig.dev.json
+C:\Users\Moon\source\repos\COMP123Midterm\COMP123Midterm\bin\Debug\net5.0\COMP123Midterm.dll
+C:\Users\Moon\source\repos\COMP123Midterm\COMP123Midterm\bin\Debug\net5.0\ref\COMP123Midterm.dll
+C:\Users\Moon\source\repos\COMP123Midterm\COMP123Midterm\bin\Debug\net5.0\COMP123Midterm.pdb
+C:\Users\Moon\source\repos\COMP123Midterm\COMP123Midterm\obj\Debug\net5.0\COMP123Midterm.dll
+C:\Users\Moon\source\repos\COMP123Midterm\COMP123Midterm\obj\Debug\net5.0\ref\COMP123Midterm.dll
+C:\Users\Moon\source\repos\COMP123Midterm\COMP123Midterm\obj\Debug\net5.0\COMP123Midterm.pdb
+C:\Users\Moon\source\repos\COMP123Midterm\COMP123Midterm\obj\Debug\net5.0\COMP123Midterm.genruntimeconfig.cache

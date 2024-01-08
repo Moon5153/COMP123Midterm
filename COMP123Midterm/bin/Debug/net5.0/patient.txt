@@ -1,0 +1,10 @@
+Paul Martin yob: 1993
+List of Prescription:
+#106 Tylenol prescribed by Khan for 7days (Repeat)
+#107 Synthroid prescribed by Zouri for 21days (No repeat)
+#108 Ramipril prescribed by Filotti for 56days (Repeat)
+#109 Pravastatin prescribed by Pershad for 42days (Repeat)
+#110 Metformin prescribed by Filotti for 7days (Repeat)
+#111 Metformin  prescribed by Lac for 190days (No repeat)
+#112 Fluvastatin prescribed by Li for 21days (No repeat)
+#113 Coumadin prescribed by Nika for 21days (No repeat)
